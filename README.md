@@ -72,6 +72,7 @@ npm install
 # Create a .env file (see example below)
 # Then start the server
 npm start
+```
 
 📌 Note
 
