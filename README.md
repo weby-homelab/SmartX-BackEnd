@@ -79,3 +79,11 @@ This is the backend part of the SmartX project. The frontend (React.js + Tailwin
 
 Developed by Zoya Shaikh | BSc-IT, Semester VI
 SNDT Women's University, Mumbai | 2025–2026
+
+---
+
+<br>
+<p align="center">
+  Built in Ukraine under air raid sirens &amp; blackouts ⚡<br>
+  &copy; 2026 Weby Homelab
+</p>
